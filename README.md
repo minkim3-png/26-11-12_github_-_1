@@ -57,3 +57,40 @@ github issue, readme
 해석시 특수문법
 - [x] 이게 체크된 것
 
+*기울이기* _기울이기_
+**진하게**  __진하게__
+***기울진*** ___기울진___
+*내가 원한 건 
+말머리표인데 
+*붙여가지고 안뜨거나 
+*앞뒤로붙여서기울거나*
+~~취소선~~ <mark>현광펜
+태그</mark>
+`~~취소선~~`
+` `- 인라인 코드
+
+```
+코드박스
+12345678
+```
+```python
+print('Hello World')
+```
+
+```mermaid
+```
+>여러분들 스트레칭하세요
+> \-지나가던 사람
+<!--\이스케이프 문자-->
+
+[연결하고 싶은 문자](https://naver.com)
+`[연결하고 싶은 문자](https://naver.com)`
+
+![대체 텍스트]()
+![대체 텍스트](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfh0UpD-2tePaf3wX5D8gPhbh7xh9pPMbvVuGBKto5Wg&s=10)
+
+<center>가운데정렬</center>
+
+`| (수직 바, 파이프라인)`
+|제목1|
+|-----|
